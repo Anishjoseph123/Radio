@@ -1,0 +1,30 @@
+[
+    {
+        "MenuName": "Stations",
+        "MenuICon": "mdi-radio",
+        "MenuRoute": "Stations",
+        "has_child_routes": false,
+        "active": true
+    },
+    {
+        "MenuName": "Categories",
+        "MenuICon": "mdi-folder",
+        "MenuRoute": "Categories",
+        "has_child_routes": false,
+        "active": false
+    },
+    {
+        "MenuName": "BMS Users",
+        "MenuICon": "mdi-account-multiple",
+        "MenuRoute": "BMSUsers",
+        "has_child_routes": false,
+        "active": false
+    },
+    {
+        "MenuName": "Unverified Stations",
+        "MenuICon": "mdi-radio-off",
+        "MenuRoute": "UnverifiedStations",
+        "has_child_routes": false,
+        "active": false
+    }
+]

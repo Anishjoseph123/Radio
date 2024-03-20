@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-radioone-dev-162329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::261871354613:role/amplify-radioone-dev-162329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::261871354613:role/amplify-radioone-dev-162329-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-radioone-dev-162329-deployment",
+      "UnauthRoleName": "amplify-radioone-dev-162329-unauthRole",
+      "StackName": "amplify-radioone-dev-162329",
+      "StackId": "arn:aws:cloudformation:ap-south-1:261871354613:stack/amplify-radioone-dev-162329/6e605dd0-d9e9-11ed-a086-066009945640",
+      "AmplifyAppId": "d3orwg3yuyn3bb"
+    }
+  },
+  "raydeoone": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-radioonebms-raydeoone-112604-authRole",
+      "UnauthRoleArn": "arn:aws:iam::261871354613:role/amplify-radioonebms-raydeoone-112604-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::261871354613:role/amplify-radioonebms-raydeoone-112604-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-radioonebms-raydeoone-112604-deployment",
+      "UnauthRoleName": "amplify-radioonebms-raydeoone-112604-unauthRole",
+      "StackName": "amplify-radioonebms-raydeoone-112604",
+      "StackId": "arn:aws:cloudformation:ap-south-1:261871354613:stack/amplify-radioonebms-raydeoone-112604/31b48e90-e977-11ed-acde-023ce5bb8104",
+      "AmplifyAppId": "d3orwg3yuyn3bb"
+    }
+  }
+}
